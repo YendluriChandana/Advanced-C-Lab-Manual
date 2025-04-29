@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f901514-df89-4ce9-a3a7-7df1524cba06)# Advanced-C-Lab-Manual
+# Advanced-C-Lab-Manual
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
 Aim: To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
@@ -1815,6 +1815,7 @@ If head is equal to NULL, Print "Stack is empty."
 Else Proceed to the next step.
 Set head to point to the next node in the stack.
 Program:
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -1883,8 +1884,8 @@ int main() {
 
 
 Output:
-![image](https://github.com/user-attachments/assets/c5d1b8f3-3f61-475f-af27-0e2dab5d16a6)
 
+![Screenshot 2025-04-29 215901](https://github.com/user-attachments/assets/a14304a1-5d6b-4a1b-afc4-0bf28a607460)
 
 
 Result: Thus, the program to pop an element from the given stack using liked list is verified successfully.
@@ -1974,8 +1975,7 @@ int main() {
 }
 ```
 Output:
-
-![image](https://github.com/user-attachments/assets/3063beac-ae96-48dc-bcdf-ef8902813359)
+![Screenshot 2025-04-29 215812](https://github.com/user-attachments/assets/f997981f-2f24-4d3d-ba12-befdf281a233)
 
 
 Result: Thus, the program to display queue elements using linked list is verified successfully.
@@ -2091,7 +2091,8 @@ int main() {
 
 Output:
 
-![image](https://github.com/user-attachments/assets/995cc7a0-0827-479f-9933-8e90907e14a5)
+![Screenshot 2025-04-29 215614](https://github.com/user-attachments/assets/0f1698ce-b263-4030-9fb5-47790829dfdd)
+
 
 Result: Thus, the program to insert elements in queue using linked list is verified successfully.
 
@@ -2193,7 +2194,8 @@ int main() {
 
 Output:
 
-![image](https://github.com/user-attachments/assets/487922e8-6247-49cb-99c2-7988cf0f358b)
+
+![Screenshot 2025-04-29 214704](https://github.com/user-attachments/assets/adae885f-1619-4ea4-b3c4-8bbbcd63b58b)
 
 
 Result:
